@@ -138,3 +138,29 @@ margin-top: 63px;
 font-size:35px;
 letter-spacing: 2px;
 }
+.box-work{
+text-align: center;
+display: inline-block;
+padding: 10px 20px;
+}
+.box-work img{
+width: 200px;
+}
+.container{
+text-align: center;
+}
+
+.emergente{
+position: fixed;
+width: 350px;
+height: 190px;
+top: 0;
+left: 0;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight: normal;
+border: #333333 3px solid;
+background-color: #FAFAFA;
+color: #000000;
+display:none;
+}
