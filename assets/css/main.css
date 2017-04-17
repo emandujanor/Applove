@@ -1,5 +1,5 @@
 .text-uppercase{
-  text.transform: uppercase;
+  text-transform: uppercase;
 }
 .link{
 	font-weight:700;
